@@ -1,0 +1,7 @@
+D:\C_Sharp_Curso\Challenges\Sorted_Search\Sorted_Search\Sorted_Search\bin\Debug\Sorted_Search.exe.config
+D:\C_Sharp_Curso\Challenges\Sorted_Search\Sorted_Search\Sorted_Search\bin\Debug\Sorted_Search.exe
+D:\C_Sharp_Curso\Challenges\Sorted_Search\Sorted_Search\Sorted_Search\bin\Debug\Sorted_Search.pdb
+D:\C_Sharp_Curso\Challenges\Sorted_Search\Sorted_Search\Sorted_Search\obj\Debug\Sorted_Search.csprojAssemblyReference.cache
+D:\C_Sharp_Curso\Challenges\Sorted_Search\Sorted_Search\Sorted_Search\obj\Debug\Sorted_Search.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Curso\Challenges\Sorted_Search\Sorted_Search\Sorted_Search\obj\Debug\Sorted_Search.exe
+D:\C_Sharp_Curso\Challenges\Sorted_Search\Sorted_Search\Sorted_Search\obj\Debug\Sorted_Search.pdb
